@@ -67,10 +67,10 @@ Technologies and Languages </h2>
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
-<h3> + many more! </h3>
 
 <p>
-<a align= "center" href="https://github.com/dataonatangent">
+<a align= "center">
+  <href="https://github.com/dataonatangent">
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 </p>
 
