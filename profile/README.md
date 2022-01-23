@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bug+Coder!;We+are+Programming;And+BugBounty+Team...)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -6,4 +6,4 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bug+Coder!;We+are+Programming;And+BugBounty+Team...)](https://git.io/typing-svg)
+
