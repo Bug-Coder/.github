@@ -1,6 +1,11 @@
 ### Hi there, We are Bug Coder 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bug+Coder!;We+are+Programming;And+BugBounty+Team...)](https://git.io/typing-svg)
 
+## We are a Programming & Bug Bounty Team
+
+- 💬 Ask ous about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
+- 📫 Reach me at bugcoder25@gmail.com
+
 <img src="https://profile-counter.glitch.me/Bug-Coder/count.svg">
 
 <div align="center">
@@ -8,8 +13,3 @@
       <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
-
-## We are a Programming & Bug Bounty Team
-
-- 💬 Ask ous about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
-- 📫 Reach me at bugcoder25@gmail.com
