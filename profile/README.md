@@ -6,7 +6,7 @@
 
 ## We are a Programming & Bug Bounty Team
 
-- 💬 Ask ous about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
+- 💬 Ask us about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
 - 📫 Reach ous at bugcoder25@gmail.com
 
 <h2 align="center">
