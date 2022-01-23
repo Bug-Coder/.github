@@ -1,7 +1,6 @@
 ### Hi there, We are Bug Coder 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bug+Coder!;We+are+Programming;And+BugBounty+Team...)](https://git.io/typing-svg)
-
 ## We are a Programming & Bug Bounty Team
 
 - 💬 Ask ous about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
