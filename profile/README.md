@@ -14,8 +14,6 @@
   </a>
 </div>
 
-</div>
-
 <h2 align="center">
 Technologies and Languages </h2>
 
@@ -75,3 +73,11 @@ Technologies and Languages </h2>
 <a align= "center" href="https://github.com/dataonatangent">
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 </p>
+
+
+
+
+
+[![](https://raw.githubusercontent.com/Bug-Coder/Bug-Coder/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bug-Coder/Bug-Coder/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bug-Coder/Bug-Coder/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Bug-Coder/Bug-Coder/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Bug-Coder/Bug-Coder/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
