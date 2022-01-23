@@ -74,4 +74,4 @@ Technologies and Languages </h2>
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 </p>
 
-<img align='right' src='https://github.com/Bug-coder/Bug-Coder/blob/master/images/octocat-anime.gif' width='150"'>
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
