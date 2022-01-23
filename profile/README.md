@@ -4,7 +4,7 @@
 ## We are a Programming & Bug Bounty Team
 
 - 💬 Ask ous about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
-- 📫 Reach me at bugcoder25@gmail.com
+- 📫 Reach ous at bugcoder25@gmail.com
 
 <img src="https://profile-counter.glitch.me/Bug-Coder/count.svg">
 
