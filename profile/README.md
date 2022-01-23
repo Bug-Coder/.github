@@ -9,7 +9,7 @@
 - 💬 Ask us about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
 - 📫 Reach ous at bugcoder25@gmail.com
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & Technologies We Use...***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"></code>
