@@ -72,6 +72,6 @@ Technologies and Languages </h2>
 ![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
 
 <p>
-<a href="https://www.rishit.tech"><img src="https://github.com/Bud-Coder/Bug-Coder/blob/master/images/header_image.png" width="900"></a>
+<a href="https://www.rishit.tech"><img src="https://github.com/techno-rabit/techno-rabit/blob/master/images/header_image.png" width="900"></a>
 </p>
 
