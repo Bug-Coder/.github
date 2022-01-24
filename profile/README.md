@@ -4,7 +4,8 @@
 
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-## We are a Programming & Bug Bounty Team
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" />We are a Programming & Bug Bounty Team</h2></summary>## We are a Programming & Bug Bounty Team
 
 - 💬 Ask us about Shell Scripting , Hacking , Penetration Testing , Programming , Bug Bounty , Cyber Security.....
 - 📫 Reach ous at bugcoder25@gmail.com
